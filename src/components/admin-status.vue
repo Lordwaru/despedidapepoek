@@ -1,10 +1,11 @@
 <template>
     <div>
-        <v-layout class="primary" align-center justify-center fill-height>
+        <v-layout class="primary" align-center justify-center fill-height row>
             <v-flex xs12>
-                <h1 pa0 ma0 class="admin-header" >El admin se la come</h1>
+                <h1 class="admin-header" >El admin se la come</h1>
             </v-flex>
-        </v-layout>
+            
+        </v-layout>       
     </div>
 </template>
 
